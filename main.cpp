@@ -11,6 +11,7 @@ int main() {
         return 1;
     }
 
+
     unordered_map<char, int> letterFrequency; 
     unordered_map<string, int> bigramFrequency; 
 
